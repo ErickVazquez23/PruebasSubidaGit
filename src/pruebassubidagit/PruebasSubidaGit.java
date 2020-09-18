@@ -16,6 +16,12 @@ public class PruebasSubidaGit {
      */
     public static void main(String[] args) {
         System.out.println("Hola como estas");
+        
+        String con = "oo";
+        
+        if(con.equals("oo")){
+            System.out.println("Buenos dias");
+        }
     }
     
 }
