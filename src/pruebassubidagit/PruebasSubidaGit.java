@@ -26,6 +26,8 @@ public class PruebasSubidaGit {
         String saludo = "Muy bien y tu ";
         if(saludo.equals("Muy bien y tu ")){
             System.out.println("Bien");
+        }else{
+            System.out.println("Nada");
         }
     }
     
