@@ -13,7 +13,7 @@ package pruebassubidagit;
 public class otraclaseotravez {
     public void metodo(){
         System.out.println("Hola de nuevo");
-        System.out.println("Hola de nuevo1");
+//        System.out.println("Hola de nuevo1");
         System.out.println("Hola de nuevo3");
         System.out.println("Hola de nuevo4");
         System.out.println("Hola de nuevo7");
@@ -30,5 +30,9 @@ public class otraclaseotravez {
         System.out.println("Hola de nuevo4");
         System.out.println("Hola de nuevo7");
         System.out.println("Hola de nuevo8");
+    }
+    
+    public void otrometodo(){
+        System.out.println("ESTE ES OTRO MEOTODO");
     }
 }
