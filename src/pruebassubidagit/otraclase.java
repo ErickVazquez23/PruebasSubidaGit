@@ -17,4 +17,7 @@ public class otraclase {
         System.out.println("Hola otra vez aqui3");
         System.out.println("Hola otra vez aqui4");
     }
+    public void metodo2(){
+        metodo();
+    }
 }
