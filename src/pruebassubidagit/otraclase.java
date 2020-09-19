@@ -12,5 +12,9 @@ package pruebassubidagit;
 public class otraclase {
     public void metodo(){
         System.out.println("Hola");
+        System.out.println("Hola otra vez aqui1");
+        System.out.println("Hola otra vez aqui2");
+        System.out.println("Hola otra vez aqui3");
+        System.out.println("Hola otra vez aqui4");
     }
 }
